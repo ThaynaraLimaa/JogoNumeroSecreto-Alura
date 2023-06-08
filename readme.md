@@ -11,3 +11,5 @@ Projeto feito durante o curso [JavaScript: validações e reconhecimento de voz]
 - CSS
 - Web Speech API 
 
+## Como rodar o projeto
+- Acesso o arquivo index.html ou acesse a demo [aqui](https://jogo-numero-secreto-alura-xi.vercel.app/). 
